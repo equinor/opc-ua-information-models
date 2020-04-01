@@ -17,3 +17,7 @@ All our information models are published as XML files according to the NodeSet s
 * We also believe and experience that when we open up and share, other companies do the same and we get access to more innovation. We as an industry get access to more innovation.
 
 * The IT function in Equinor has a clear open source direction and ambition, in fact - we have a technical requirement in Equinor that all software developed by Equinor or on behalf of Equinor shall be made open source unless there is a very good reason not do it. Our values in Equinor guide us in how we do business and work together. Open, collaborative, courageous and caring are the four core principles that embody the spirit and energy of Equinor at its best - and we belive open source is in the spirit of our core values. 
+
+## Published OPC UA information models
+
+* [equipment-scd](https://github.com/equinor/opc-ua-information-models/tree/master/equipment-scd): This is a set of enterprise OPC UA object types that we have sub-typed from the ISA-95 OPC UA companion specification (https://reference.opcfoundation.org/v104/ISA-95/ and https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models/isa-95-common-object-model/). It includes typical oil & gas equipment types with naming and structure inspired from ISO 14224 (https://www.iso.org/standard/64076.html) and control function blocks with output terminals and parameters based on IEC 63131 (https://webstore.iec.ch/publication/60599). 
