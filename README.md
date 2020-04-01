@@ -6,6 +6,8 @@ The OPC UA information models published here are not joint OPC UA companion spec
 
 All our information models are published as XML files according to the NodeSet schema standardized by OPC Foundation and described in OPC UA Part 6 (https://reference.opcfoundation.org/v104/Core/docs/Part6/). 
 
+Feel free to report feedback and issues at https://github.com/equinor/opc-ua-information-models/issues - all contributions are welcome.
+
 ## Why open source OPC UA information models?
 
 * OPC UA is not only a connectivity framework standard, it is a global community working together to achieve interoperability and a secure and reliable exchange of information (data in context) across companies and platforms in the industry. We utilize and benefit from this community, and by open sourcing these information models we also contribute back to the community. Being open is a key to achieve adoption and we believe openness is in the spirit of OPC UA.
