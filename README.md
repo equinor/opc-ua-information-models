@@ -12,6 +12,6 @@ The OPC UA information models published here are not joint OPC UA companion spec
 
 * If our suppliers and partnes actually use and build further on these models, it may result in increased adoption and standardization which mean less manual data mapping and interpretation of company-specific information in our future projects.
 
-* We also believe and experience that when we open up and share, other companies do the same and we get access to more innovation. We as a industry get access to more innovation.
+* We also believe and experience that when we open up and share, other companies do the same and we get access to more innovation. We as an industry get access to more innovation.
 
-* The IT function in Equinor has a clear open source direction and ambition, in fact - we have a technical requirement in Equinor that all software developed by Equinor or on behalf of Equinor shall be made open source unless there is a very good reason not do it. 
+* The IT function in Equinor has a clear open source direction and ambition, in fact - we have a technical requirement in Equinor that all software developed by Equinor or on behalf of Equinor shall be made open source unless there is a very good reason not do it. Our values in Equinor guide us in how we do business and work together. Open, collaborative, courageous and caring are the four core principles that embody the spirit and energy of Equinor at its best - and we belive open source is in the spirit of our core values. 
