@@ -9,3 +9,9 @@ The naming and underlying structure on some of the equipment types are inspired 
 This NodeSet XML file also includes all SCD function blocks with output terminals and parameters as defined in IEC 63131 Annex A.4 (IEC PAS 63131:2017 System control diagram https://webstore.iec.ch/publication/60599 - Copyright © 2017 IEC Geneva, Switzerland. IEC has no responsibility for the placement and context in which the publication is used, nor is IEC in any way responsible for the other content or accuracy therein.)
 
 Standards like ISO 14224 and IEC 63131 have no OPC UA companion specification available as NodeSet XML files that companies can use. Equinor has started going in this direction by manually implementing parts of these standards in OPC UA, and we hope that we as an industry together can realize joint companion specification out of this.
+
+## Improvements
+
+There are always room for improvement:
+
+* Ideally, the IEC 63131 SCD function block types should be separated into a namespace that is independent of the ISA-95 OPC UA companion specification. We encourgage the community to further improve this and share back. 
