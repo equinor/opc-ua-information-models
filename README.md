@@ -18,7 +18,7 @@ Feel free to report feedback and issues at https://github.com/equinor/opc-ua-inf
 
 * We also believe and experience that when we open up and share, other companies do the same and we get access to more innovation. We as an industry get access to more innovation.
 
-* The IT function in Equinor has a clear open source direction and ambition, in fact - we have a technical requirement in Equinor that all software developed by Equinor or on behalf of Equinor shall be made open source unless there is a very good reason not do it.
+* The IT function in Equinor has a clear open source direction and ambition, in fact - we have a technical requirement in Equinor that all software developed by Equinor or on behalf of Equinor shall be made open source unless there is a very good reason not to do it.
 
 ## Published OPC UA information models
 
