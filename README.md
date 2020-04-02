@@ -1,6 +1,6 @@
 # OPC UA information models
 
-In this repository Equinor makes OPC UA information models available as open source so that everybody can take advantage of what we have done and further develop it. Some of these OPC UA information models will be Equinor-specific, some of them will be based on other standards (that only exist as PDF documents) and some of them are sub-typed from existing OPC UA companion specifications. 
+In this repository Equinor makes OPC UA information models available as open source so that everybody can take advantage of what we have done and further develop it. Some of these OPC UA information models will be Equinor-specific, some of them will be based on other standards (that only exist as PDF documents) and some of them are subtyped from existing OPC UA companion specifications. 
 
 The OPC UA information models published here are not joint OPC UA companion specifications. All joint OPC UA companion specifications are published at https://github.com/OPCFoundation/UA-Nodeset (NodeSet XML files) and https://reference.opcfoundation.org/v104/ (Specification).
 
@@ -22,4 +22,4 @@ Feel free to report feedback and issues at https://github.com/equinor/opc-ua-inf
 
 ## Published OPC UA information models
 
-* [equipment-scd](https://github.com/equinor/opc-ua-information-models/tree/master/equipment-scd): A set of enterprise OPC UA object types that we have sub-typed from the ISA-95 OPC UA companion specification (https://reference.opcfoundation.org/v104/ISA-95/ and https://opcfoundation.org/developer-tools/specifications-opc-ua-information-models/isa-95-common-object-model/). It includes typical oil & gas equipment types with naming and structure inspired from ISO 14224 (https://www.iso.org/standard/64076.html) and control function blocks with output terminals and parameters based on IEC 63131 (https://webstore.iec.ch/publication/60599). 
+* [equipment-scd](https://github.com/equinor/opc-ua-information-models/tree/master/equipment-scd): A set of enterprise OPC UA object types that we have subtyped from the ISA-95 OPC UA companion specification. It includes typical oil & gas equipment types with naming and structure inspired from ISO 14224 and control function blocks with output terminals and parameters based on IEC 63131.
