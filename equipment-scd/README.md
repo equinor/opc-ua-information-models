@@ -8,12 +8,12 @@ The types in this NodeSet XML file is subtyped from the ISA-95 OPC UA Companion 
 
 The naming and underlying structure on some of the equipment types are inspired from ISO 14224 (https://www.iso.org/standard/64076.html) Annex A (Equipment-class attributes). This NodeSet XML file is not a formal and compliance-based implementation of ISO 14224. 
 
-This NodeSet XML file also includes all SCD function blocks with output terminals and parameters as defined in IEC 63131 Annex A.4 (IEC PAS 63131:2017 System control diagram https://webstore.iec.ch/publication/60599 - Copyright © 2017 IEC Geneva, Switzerland. IEC has no responsibility for the placement and context in which the publication is used, nor is IEC in any way responsible for the other content or accuracy therein.)
+This NodeSet XML file also includes all SCD function blocks with output terminals and parameters as defined in IEC PAS 63131 Annex A.4 (IEC PAS 63131:2017 System control diagram https://webstore.iec.ch/publication/60599 - Copyright © 2017 IEC Geneva, Switzerland. IEC has no responsibility for the placement and context in which the publication is used, nor is IEC in any way responsible for the other content or accuracy therein.)
 
-Standards like ISO 14224 and IEC 63131 have no OPC UA companion specification available as NodeSet XML files that companies can use. Equinor has started going in this direction by manually implementing parts of these standards in OPC UA, and we hope that we as an industry together can realize joint companion specification out of this.
+Standards like ISO 14224 and IEC PAS 63131 have no OPC UA companion specification available as NodeSet XML files that companies can use. Equinor has started going in this direction by manually implementing parts of these standards in OPC UA, and we hope that we as an industry together can realize joint companion specification out of this.
 
 ## Improvements
 
 There are always room for improvement:
 
-* Ideally, the IEC 63131 SCD function block types should be separated into a namespace that is independent of the ISA-95 OPC UA companion specification. We encourgage the community to further improve this and share back. 
+* Ideally, the IEC PAS 63131 SCD function block types should be separated into a namespace that is independent of the ISA-95 OPC UA companion specification. We encourgage the community to further improve this and share back. 
