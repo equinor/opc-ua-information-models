@@ -12,7 +12,7 @@ Feel free to report feedback and issues at https://github.com/equinor/opc-ua-inf
 
 * OPC UA is not only a connectivity framework standard, it is a global community working together to achieve interoperability and a secure and reliable exchange of information (data in context) across companies and platforms in the industry. We utilize and benefit from this community, and by open sourcing these information models we also contribute back to the community. Being open is a key to achieve adoption and we believe openness is in the spirit of OPC UA.
 
-* We hope and believe that our work will result in and push a development of official joint OPC UA companion specifications, for example an IEC 63131 OPC UA companion specification, because people and companies will see that we have done quite a lot in that direction already. What we publish here is only the first step, our final destination are joint OPC UA companion specification that the industry commonly agrees on and commits to use. 
+* We hope and believe that our work will result in and push a development of official joint OPC UA companion specifications, for example an IEC PAS 63131 OPC UA companion specification, because people and companies will see that we have done quite a lot in that direction already. What we publish here is only the first step, our final destination are joint OPC UA companion specification that the industry commonly agrees on and commits to use. 
 
 * If our suppliers and partnes actually use and build further on these models, it may result in increased adoption and standardization which mean less manual data mapping and interpretation of company-specific information in our future projects.
 
