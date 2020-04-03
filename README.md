@@ -22,4 +22,4 @@ Feel free to report feedback and issues at https://github.com/equinor/opc-ua-inf
 
 ## Published OPC UA information models
 
-* [equipment-scd](https://github.com/equinor/opc-ua-information-models/tree/master/equipment-scd): A set of enterprise OPC UA object types that we have subtyped from the ISA-95 OPC UA companion specification. It includes typical oil & gas equipment types with naming and structure inspired from ISO 14224 and control function blocks with output terminals and parameters based on IEC 63131.
+* [equipment-scd](https://github.com/equinor/opc-ua-information-models/tree/master/equipment-scd): A set of enterprise OPC UA object types that we have subtyped from the ISA-95 OPC UA companion specification. It includes typical oil & gas equipment types with naming and structure inspired from ISO 14224 and control function blocks with output terminals and parameters based on IEC PAS 63131.
