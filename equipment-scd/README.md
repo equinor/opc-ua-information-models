@@ -16,4 +16,4 @@ Standards like ISO 14224 and IEC PAS 63131 have no OPC UA companion specificatio
 
 There are always room for improvement:
 
-* Ideally, the IEC PAS 63131 SCD function block types should be separated into a namespace that is independent of the ISA-95 OPC UA companion specification. We encourgage the community to further improve this and share back. 
+* Ideally, the IEC PAS 63131 SCD function block types should be separated into a namespace that is independent of the ISA-95 OPC UA companion specification. We encourage the community to further improve this and share back. 
