@@ -8,6 +8,8 @@ All our information models are published as XML files according to the NodeSet s
 
 Feel free to report feedback and issues at https://github.com/equinor/opc-ua-information-models/issues - all contributions are welcome.
 
+This repository is being updated continuously.
+
 ## Why open source OPC UA information models?
 
 * OPC UA is not only a connectivity framework standard, it is a global community working together to achieve interoperability and a secure and reliable exchange of information (data in context) across companies and platforms in the industry. We utilize and benefit from this community, and by open sourcing these information models we also contribute back to the community. Being open is a key to achieve adoption and we believe openness is in the spirit of OPC UA.
